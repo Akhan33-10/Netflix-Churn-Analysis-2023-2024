@@ -218,7 +218,7 @@ Year = YEAR(netflix_dataset[Join Date])
 ## Dashboard Story
 
 WHERE  — Africa 2x higher churn than Asia
-WHO    — Basic plan 3x riskier than Premium
+WHO    — Basic plan 2.5x riskier than Premium
 WHEN   — Churn fell 57% from 2023 to 2024
 WHY    — High support queries + low satisfaction = churn
 
