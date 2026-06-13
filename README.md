@@ -1,7 +1,7 @@
 # Netflix Churn Analysis 2023-2024
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ---
 
